@@ -1,5 +1,9 @@
-Gmail-parser
+Gmail-parser - dev_UTF-Handler
 ============
+
+Branch to work on UTF handling for the subject lines.
+Mostly to do with learning about branches
+
 
 Returns simple strings for each unread mail in your gmail (or any IMAP) account
 
